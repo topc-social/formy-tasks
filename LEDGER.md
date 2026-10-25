@@ -6,3 +6,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 
 | # | Date | Who | What | Neki | Status | Link |
 |---|---|---|---|---|---|---|
+| 1 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #2: Formy look-and-feel mock: fill button in forms, profile screen | 15 | provisional | https://github.com/topc-social/formy-tasks/issues/2 |
+| 2 | 2026-10-25 | Kamal Khatwani (via Claude) | Work (99%) on #2: Formy look-and-feel mock: fill button in forms, profile screen | 1,485 | provisional | https://github.com/topc-social/formy-tasks/issues/2 |
