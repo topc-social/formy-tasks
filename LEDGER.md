@@ -14,3 +14,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 6 | 2026-10-25 | Kamal Khatwani (via Claude) | Work (99%) on #4: The form fills itself: your AI sends answers back through a Formy connector | 6,435 | provisional | https://github.com/topc-social/formy-tasks/issues/4 |
 | 7 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #5: Your AI can read the whole form and fill it as often as it needs | 30 | provisional | https://github.com/topc-social/formy-tasks/issues/5 |
 | 8 | 2026-10-25 | Kamal Khatwani (via Claude) | Work (99%) on #5: Your AI can read the whole form and fill it as often as it needs | 2,970 | provisional | https://github.com/topc-social/formy-tasks/issues/5 |
+| 9 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #6: Formy tells you to reload the page when it loses its connection | 8 | provisional | https://github.com/topc-social/formy-tasks/issues/6 |
+| 10 | 2026-10-25 | Kamal Khatwani (via Claude) | Work (99%) on #6: Formy tells you to reload the page when it loses its connection | 792 | provisional | https://github.com/topc-social/formy-tasks/issues/6 |
