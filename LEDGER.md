@@ -20,3 +20,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 12 | 2026-10-25 | Kamal Khatwani (via Claude) | Work (99%) on #7: Formy handles any real form: choices, rules, sections, rich text, frames | 6,435 | provisional | https://github.com/topc-social/formy-tasks/issues/7 |
 | 13 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #8: Formy reads YC's radios and search dropdowns | 8 | provisional | https://github.com/topc-social/formy-tasks/issues/8 |
 | 14 | 2026-10-25 | Kamal Khatwani (via Claude) | Work (99%) on #8: Formy reads YC's radios and search dropdowns | 792 | provisional | https://github.com/topc-social/formy-tasks/issues/8 |
+| 15 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #9: Formy handles YC's click-only Yes/No choices and the city search box | 8 | provisional | https://github.com/topc-social/formy-tasks/issues/9 |
+| 16 | 2026-10-25 | Kamal Khatwani (via Claude) | Work (99%) on #9: Formy handles YC's click-only Yes/No choices and the city search box | 792 | provisional | https://github.com/topc-social/formy-tasks/issues/9 |
