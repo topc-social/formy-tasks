@@ -30,3 +30,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 20 | 2026-10-27 | Kamal Khatwani (via Claude) | Work (99%) on #11: Filled fields readable on dark-themed forms | 792 | provisional | https://github.com/topc-social/formy-tasks/issues/11 |
 | 21 | 2026-11-01 | Kamal Khatwani | Idea (1%) for #12: Your AI sends you a form link and fills it, no code to paste | 12 | provisional | https://github.com/topc-social/formy-tasks/issues/12 |
 | 22 | 2026-11-01 | Kamal Khatwani (via Claude) | Work (99%) on #12: Your AI sends you a form link and fills it, no code to paste | 1,188 | provisional | https://github.com/kamal0808/formy/pull/11 |
+| 23 | 2026-11-02 | Kamal Khatwani | Idea (1%) for #13: Formy button covers checkboxes and radios so they can't be clicked | 8 | provisional | https://github.com/topc-social/formy-tasks/issues/13 |
+| 24 | 2026-11-02 | Kamal Khatwani (via Claude) | Work (99%) on #13: Formy button covers checkboxes and radios so they can't be clicked | 792 | provisional | https://github.com/topc-social/formy-tasks/issues/13 |
