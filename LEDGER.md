@@ -42,3 +42,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 32 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on #19: Your AI can attach files to forms, like a logo upload | 2,673 | provisional | https://github.com/topc-social/formy-tasks/issues/19 |
 | 33 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #17: Formy can pick choice cards like Meta's app use cases | 8 | provisional | https://github.com/topc-social/formy-tasks/issues/17 |
 | 34 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on #17: Formy can pick choice cards like Meta's app use cases | 792 | provisional | https://github.com/kamal0808/formy/pull/15 |
+| 35 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #20: Would a Formy browser agent beat today's browser agents? | 60 | provisional | https://github.com/topc-social/formy-tasks/issues/20 |
+| 36 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on #20: Would a Formy browser agent beat today's browser agents? | 5,940 | provisional | https://github.com/topc-social/formy-tasks/issues/20 |
