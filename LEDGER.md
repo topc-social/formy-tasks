@@ -48,3 +48,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 38 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on #21: Your AI can open a page in your own browser and read it, no code to paste | 3,960 | provisional | https://github.com/kamal0808/formy/pull/18 |
 | 39 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #22: Formy follows links and clicks menus, and stays connected | 40 | provisional | https://github.com/topc-social/formy-tasks/issues/22 |
 | 40 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on #22: Formy follows links and clicks menus, and stays connected | 3,960 | provisional | https://github.com/kamal0808/formy/pull/19 |
+| 41 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #24: Formy reads the images on a page (alt text and link) | 12 | provisional | https://github.com/topc-social/formy-tasks/issues/24 |
+| 42 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on #24: Formy reads the images on a page (alt text and link) | 1,188 | provisional | https://github.com/topc-social/formy-tasks/issues/24 |
