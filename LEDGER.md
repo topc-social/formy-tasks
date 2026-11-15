@@ -58,3 +58,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 48 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on #29: Formy runs in a browser on the Mac mini, not in Kamal's own | 792 | provisional | https://github.com/topc-social/formy-tasks/issues/29 |
 | 49 | 2026-11-15 | Kamal Khatwani | Idea (1%) for #30: Formy can set sliders and drag dials, not just text boxes | 27 | provisional | https://github.com/topc-social/formy-tasks/issues/30 |
 | 50 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #30: Formy can set sliders and drag dials, not just text boxes | 2,673 | provisional | https://github.com/topc-social/formy-tasks/issues/30 |
+| 51 | 2026-11-15 | Kamal Khatwani | Idea (1%) for #31: Formy picks from search dropdowns, blank-label radios and tile cards | 27 | provisional | https://github.com/topc-social/formy-tasks/issues/31 |
+| 52 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #31: Formy picks from search dropdowns, blank-label radios and tile cards | 2,673 | provisional | https://github.com/topc-social/formy-tasks/issues/31 |
