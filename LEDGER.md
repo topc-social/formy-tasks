@@ -60,3 +60,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 50 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #30: Formy can set sliders and drag dials, not just text boxes | 2,673 | provisional | https://github.com/topc-social/formy-tasks/issues/30 |
 | 51 | 2026-11-15 | Kamal Khatwani | Idea (1%) for #31: Formy picks from search dropdowns, blank-label radios and tile cards | 27 | provisional | https://github.com/topc-social/formy-tasks/issues/31 |
 | 52 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #31: Formy picks from search dropdowns, blank-label radios and tile cards | 2,673 | provisional | https://github.com/topc-social/formy-tasks/issues/31 |
+| 53 | 2026-11-16 | Kamal Khatwani | Idea (1%) for #32: Formy ticks codes in checkbox trees and keeps its button off fields | 35 | provisional | https://github.com/topc-social/formy-tasks/issues/32 |
+| 54 | 2026-11-16 | Kamal Khatwani (via Claude) | Work (99%) on #32: Formy ticks codes in checkbox trees and keeps its button off fields | 3,465 | provisional | https://github.com/topc-social/formy-tasks/issues/32 |
