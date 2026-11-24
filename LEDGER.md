@@ -66,3 +66,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 56 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #34: Real token numbers: Formy vs Playwright MCP on the same pages | 3,960 | provisional | https://github.com/topc-social/formy-tasks/issues/34 |
 | 57 | 2026-11-23 | Kamal Khatwani | Idea (1%) for #36: Does Formy get through bot checks that stop headless browsers? | 8 | provisional | https://github.com/topc-social/formy-tasks/issues/36 |
 | 58 | 2026-11-23 | Kamal Khatwani (via Claude) | Work (99%) on #36: Does Formy get through bot checks that stop headless browsers? | 792 | provisional | https://github.com/topc-social/formy-tasks/issues/36 |
+| 59 | 2026-11-24 | Kamal Khatwani | Idea (1%) for #33: Formy runs on Cloudflare and stops polling, so it stays free | 90 | provisional | https://github.com/topc-social/formy-tasks/issues/33 |
+| 60 | 2026-11-24 | Kamal Khatwani (via Claude) | Work (99%) on #33: Formy runs on Cloudflare and stops polling, so it stays free | 8,910 | provisional | https://github.com/kamal0808/formy/pull/38 |
