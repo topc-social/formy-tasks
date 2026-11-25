@@ -70,3 +70,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 60 | 2026-11-24 | Kamal Khatwani (via Claude) | Work (99%) on #33: Formy runs on Cloudflare and stops polling, so it stays free | 8,910 | provisional | https://github.com/kamal0808/formy/pull/38 |
 | 61 | 2026-11-24 | Kamal Khatwani | Idea (1%) for #42: Formy reloads itself on the mini when new code lands, so nobody clicks reload | 12 | provisional | https://github.com/topc-social/formy-tasks/issues/42 |
 | 62 | 2026-11-24 | Kamal Khatwani (via Claude) | Work (99%) on #42: Formy reloads itself on the mini when new code lands, so nobody clicks reload | 1,188 | provisional | https://github.com/topc-social/formy-tasks/issues/42 |
+| 63 | 2026-11-26 | Kamal Khatwani | Idea (1%) for #47: Formy hands captchas to a person and waits until they're solved | 27 | provisional | https://github.com/topc-social/formy-tasks/issues/47 |
+| 64 | 2026-11-26 | Kamal Khatwani (via Claude) | Work (99%) on #47: Formy hands captchas to a person and waits until they're solved | 2,673 | provisional | https://github.com/kamal0808/formy/pull/44 |
